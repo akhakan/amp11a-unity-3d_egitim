@@ -1,2 +1,1 @@
-﻿"# Unity Eğitim Projesi"
-
+"# Unity E�itim Projesi" 
